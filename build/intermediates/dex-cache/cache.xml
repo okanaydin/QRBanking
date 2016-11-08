@@ -1,0 +1,662 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_8a6a5ba405a26c3a48e045ea070da73949f600e7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/exploded-aar/com.dlazaro66.qrcodereaderview/qrcodereaderview/2.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c6610b802e93de87301d1241bf4131509d959790">
+        <dex dex="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.dlazaro66.qrcodereaderview-qrcodereaderview-2.0.1_679e997278857254aa4a4660b8b8e90069baebf5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a7a04d6b7c01e569a285fa627cf64f5b05295906">
+        <dex dex="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-fitness-9.8.0_22c576d5e8db7f8c7c03c76acf6a54eb46b20a41/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.0_172f35219c503b982936e5bfa44949333b4936b5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbb3885c40e431cd2b0dc69c0cab2bf6d5da7b43">
+        <dex dex="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-games-9.8.0_e8b88234d3ac1481aa25c04b6032dbb57015fd6a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7cc5d110acf0584322110b63d7cb96be893d170d">
+        <dex dex="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ec3d4ef191aa71798fc968eba2ff4f4a864d1328/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.0_d284117f2416121bccd6f61020e6be7d91279099/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_34d6c5bb13aecad5757e74bd8b61db94d23b8ad0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="27bd8bdfd433916d2b99b64936fef3aca40dc15c">
+        <dex dex="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_c810ce35b57315e138bc8784ff642def82d9f3cf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.8.0_c978f16f64d86d90c667125540264f306f6eafca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-mediarouter-v7-24.0.0_d23e056cee6213899f0a177e2e3cba665782006b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.8.0_0b933d6c4b55f1d26a7ef8b9be0758fd251930d1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7fd91ec2730fdaa82906aad32a3f3d3e574bae56">
+        <dex dex="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-9.8.0_598ad2156fe3bd265bfb4d6063f767fd0eeba61a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.0_55f9c9793ea71f551a8c44f0706fffbad36d8e56/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.0_b487c3e155ab2fc82755b53fb84c60cb01c9d341/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.0_81ca3b3e5d7a1559a79420181ff05719a0e601a5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f47ede9561595584dca71104baa0fecb36dda87">
+        <dex dex="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-9.8.0_2cf2ff97b4340144a95aeb36858b174e7dccef33/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2d240dd085626f03f759c41d628a0c8b63e491f">
+        <dex dex="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-9.8.0_13b2bd81fa6984be8a4933913e57e19fdfe4e2b7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="20a3c4e355150c15c13dd58045d43ad0c717d916">
+        <dex dex="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-safetynet-9.8.0_10f5dbff3957b71e98aa6e7cc76155ea7068b4a9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e9b2cfdfd59b03643f1e240668275378b96615a8">
+        <dex dex="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-9.8.0_fcb16e45508fbcb8fd7a846d7ea8f1db6c3b9640/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5ffe8867f51cfc726e9fb21db1e5b6962ebf25a0">
+        <dex dex="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-9.8.0_51e983ea1ee9cf65f0067863ac8f44b3be75dae5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4438b1a7848a7c571122ba618aa1304514aabee6">
+        <dex dex="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-common-9.8.0_bff17fc04db0ef3663745ceb2f542de77862c830/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="85299bf1924dde0200109a58033c5ef84ecb6991">
+        <dex dex="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-iid-9.8.0_2a334adac5e42a51dcf0a171c5b7f59213c508cc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="679251204de40ace98776a6f4e3a649c27e3d89f">
+        <dex dex="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-places-9.8.0_c2083bb833d9c374c571b5f2d8e4638264c27ea2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="50e35ae101a679c4c8ef3dda075b1df9d5d947d9">
+        <dex dex="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-impl-9.8.0_9dded6f388fc710dd45b3d0ceefd3171199fcaf2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="04bbbddf868aa02dd33f9e90d8f5d908c360f638">
+        <dex dex="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-9.8.0_9b2b352b4469442667a0e3635edb7c3212c18cb2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="266570862e5792ef3c51143a8b8593cf54fac68d">
+        <dex dex="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-api-9.8.0_b757643325a04a52dfda1ff10345fc4854f7368e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/okanaydin/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.2.1/2287494d4f5f9f3a9a2bb6980e3f32053721b315/core-3.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/core-3.2.1_b5bb3f26aff7c9bb29e46442872f934f3a743b33/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6b6f292b8b951dcf2ecf2b20853e3eabc7d65c48">
+        <dex dex="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-9.8.0_e9cd291557fbe0983b541d34c21be3f71e7119a0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3f8f779a22cbb4c4d0759467a4f1011bb5252970">
+        <dex dex="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-module-9.8.0_4b7dbf72965df80a1cafc78a4b00a7fc5b02d8c9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.0_9d8d27cfb827375ab761c05c031c12ad46e0bfff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="910c013c511f752c4bbe24c5f492f669f4a3ccc0">
+        <dex dex="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wallet-9.8.0_2cbcdc441cb4b148f530a950e47b2cb16c2fcda4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_3d67253536c92e56351382b8c5ae1cdc002a24fb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_171f147eb6a5de2906a33322da1bd9b3a5ea860d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="16afe57c1d7f8165d107c7806ce7b0c71de87159">
+        <dex dex="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-9.8.0_f0b163a5d83b4ee6d3723be6ab0bd513932bb90a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2d3035050a075484cbf2e33f1ce1f779bae4d451">
+        <dex dex="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-panorama-9.8.0_98390e3a803a274f3ede227a44f7e3c1b563bccc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b4671be3d1288bf4e5f527cd33e42909fbe4ecc6">
+        <dex dex="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-crash-9.8.0_8e9e940060a952bcbc5e7ff9f660f165cd3df4b5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9dae58326f6f6a515022468cce56dd04ec3b9fdb">
+        <dex dex="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-9.8.0_a47f3c110f7a314a8bad4bbcfff0ef34e2280302/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="190a642ba16d1421296a4d794606279b80039c59">
+        <dex dex="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-9.8.0_ef793f4ec7f7977fea09be8c03021bb2216b761e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9ff04cc3470178a44512624036751a803418c2ca">
+        <dex dex="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-9.8.0_ab4f19d3274e0a32390eec4449049e5a404dda10/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/exploded-aar/com.android.support/palette-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-palette-v7-24.0.0_548502d71b16ae375a4828db0ac0ffb31be90a4d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3daa7a9c9009fd386872a84c177a76979bdcafd6">
+        <dex dex="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-plus-9.8.0_5304e57a61506f639ce000658eba1be1366d793c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a972970c8beddb69c198f61f3fc55f0606a7dfe3">
+        <dex dex="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-9.8.0_e75aa038c7a15956c0d222df95aea992a7cf7e92/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="363a20f1d25336e827dd24020f2ecdc42d62638f">
+        <dex dex="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gass-9.8.0_459c8ee733fafd8004dacd1a5a07078618c3ccef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="15e59454416c6341bd3ed2533b585cd340682dd1">
+        <dex dex="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-9.8.0_d06508a4a4eb65b188329e668274d7e82280fd00/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_f89bc3cc119c50782cb2e6dcd20f36f1229baefd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a1ed98e01bd58976d80c062fd0ea2968a1ff68a1">
+        <dex dex="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-base-9.8.0_3340c03341ffc87a5b58b534871c9495042a137d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e56f31b23ddb067f95f01255295167db7c798612">
+        <dex dex="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appinvite-9.8.0_f476c6e562bd0a1eff4b8c42d603884bf3eadc7c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="39ae02ce40c3ac828abbf780ce0ff5d7a28b7d6a">
+        <dex dex="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-23.0.1_019485abcb4ca23b5b6aa5507caffbc1bef55d06/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.0_742df6b09ee4b9e72ebfde1699d1ca596a5bae10/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5304fd374e0b4ebf6b42d4037fbfb2c5336511">
+        <dex dex="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-clearcut-9.8.0_75fedee4e21f9f252ada7f53210b179d86b8dbcc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_38b4eb0a068dffd364ab5124ea1473b3d7fa41ea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.8.0_176b258d6dad3cc387aaf7c8b7c3b79e02bd9c43/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e3234cd25e23069abd48ecd2117bc0e8011bf45a">
+        <dex dex="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-9.8.0_b5866fc07aff6d78d96613248ed4573a57be34bc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-instantapps/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00d358528c5a8731a6e19bca910cbb3fd755ee31">
+        <dex dex="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-instantapps-9.8.0_c754d152d3533fe683744bd96b6ade779f652eb5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ca851be26ff89f5b32cc222cee98139fb3fac830">
+        <dex dex="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-9.8.0_ced543affe42568e6dca63fc6b010279d5ea2ccf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.0_eb75fbf7e185479973ae6c13174f4bf6f1f26a7a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0b8e087da59c0b062c33f49a335e59f907086da2">
+        <dex dex="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-9.8.0_ba1d7fd26fd2bb7308da20ff9cc88d97171ff72d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-awareness/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a2537b11ae24b42172d34e2a613fc0b903c56158">
+        <dex dex="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-awareness-9.8.0_600cfba60b721642a4732465b5760e7f827768ba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/okanaydin/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.0_322a822abe0c8ee25f58295c55541fd50187804d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c81df6bd515398ebe45089b0b16c55752a131f6a">
+        <dex dex="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-nearby-9.8.0_4b8ff054e005a060103c434bcc4341a547ac8933/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.8.0_ad167d59c712918b1d0384db014767417b76f019/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/exploded-aar/com.google.firebase/firebase-config/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="289cad663c288ce965463cb9ece8b35cc7de0fac">
+        <dex dex="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-config-9.8.0_e688ffd761cca5ef137a90c07044733d9144760e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cef85cfc7df40e29fbea58844dd4c1e7d0b15542">
+        <dex dex="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-identity-9.8.0_844f30154aa37ccd6fa30b6ca9b43d047732bc12/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.0.1_2efc454c2db8e8d44e044e1baca3644e904504aa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="055eed08c9cff50cac0db69c74c4d9ff7aef3d84">
+        <dex dex="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-framework-9.8.0_b4967cf4c90e8378e20ca3923396b8738cfefc3e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.0_190e9bcc7292f8fbebeb86d77e14671bfea7cd10/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="74ac7cbcf0de4a88e59612dc3a9e3f9e71acb4ca">
+        <dex dex="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-9.8.0_1ee5fa7daba5d7b1eca6f3ea9f641f25f062e8ad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="03df48d3713661d66ad024b1e406259a4c26fcac">
+        <dex dex="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-9.8.0_5daa318fd8b1034c4fb8d0189eaa924d79245c4d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ec9104b53aee77dfcfd2fe1c4add23ff7c4df55f">
+        <dex dex="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-common-9.8.0_ae075b20a01fefc47dec2d9e6c1ddc7c955f6661/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a30aea7df545072ad3c06f56b2efc13e67222140">
+        <dex dex="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-9.8.0_3897718ffab5b7d0e176e737ef36a32fdd1afb9a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0b53c4b90654b67ee3892a8e2e7b819c083ab7a6">
+        <dex dex="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-drive-9.8.0_3971aa8874e61c9ea7534e1fbeb7920a156e62f8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="122ec9237acd8a57d974b9d529987f1ee6ca5aea">
+        <dex dex="/Users/okanaydin/Desktop/TemazsizBankacilik/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-9.8.0_1783f7b768560bab60a64c802afccfbc40ae33b1/classes.dex" />
+    </item>
+
+</items>
