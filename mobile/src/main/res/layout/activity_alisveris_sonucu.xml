@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/activity_alisveris_sonucu"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="40dp"
+    android:paddingRight="40dp"
+    android:orientation="vertical"
+    tools:context="com.example.sercanyusuf.temazsizbankacilik.AlisverisSonucu">
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/tvAlisverisBilgisi"
+            android:textSize="18sp"
+            android:textColor="@color/orange"
+            android:textStyle="bold"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="30dp"
+            android:text=" "/>
+
+
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/odemeCard1"
+                    android:background="@drawable/tv"
+                    android:textSize="18sp"
+                    android:padding="15dp"
+                    android:text="Hesap Adı: Vadesiz Hesap \n\nBakineyiz: 9000TL"
+                    android:textColor="#fff"/>
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/odemeCard2"
+        android:background="@drawable/tv"
+        android:textSize="18sp"
+        android:padding="15dp"
+        android:layout_marginTop="15dp"
+        android:text="Hesap Adı: Turuncu Hesap \n\nBakineyiz: 13000TL"
+        android:textColor="#fff"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/odemeCard3"
+        android:background="@drawable/tv"
+        android:textSize="18sp"
+        android:padding="15dp"
+        android:layout_marginTop="15dp"
+        android:text="Hesap Adı: Vadeli Hesap \n\nBakineyiz: 22500TL"
+        android:textColor="#fff"/>
+
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/btn"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:id="@+id/btnOdemeYap"
+        android:textColor="@color/arkaplan"
+        android:layout_marginTop="40dp"
+        android:text="ödeme yap"/>
+
+
+    </LinearLayout>
+
+

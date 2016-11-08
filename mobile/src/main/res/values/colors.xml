@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0e96f9</color>
+    <color name="colorPrimaryDark">#117cc9</color>
+    <color name="colorAccent">#FF6D00</color>
+    <color name="arkaplan">#FFFDE7</color>
+    <color name="yellow">#ffcb2b</color>
+    <color name="orange">#FF6D00</color>
+    <color name="darkGray">#424242</color>
+    <color name="ozan">#F44336</color>
+    <color name="yesil">#388E3C</color>
+</resources>

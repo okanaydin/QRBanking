@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "99149972469",
+    "firebase_url": "https://inghackathon-4c51d.firebaseio.com",
+    "project_id": "inghackathon-4c51d",
+    "storage_bucket": "inghackathon-4c51d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99149972469:android:f7362ef45b92a146",
+        "android_client_info": {
+          "package_name": "com.example.sercanyusuf.temazsizbankacilik"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "99149972469-0ui11lsfkmarc80uug50soho6t0tuj6f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sercanyusuf.temazsizbankacilik",
+            "certificate_hash": "7EB312375425D297E56B758A37B18457ADE3670D"
+          }
+        },
+        {
+          "client_id": "99149972469-8jlsmebchtf3pe1cbb144mh1eiinh5f8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDWbjzPBApPtHrdfJ_iJPs0EOwod_k70Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "99149972469-8jlsmebchtf3pe1cbb144mh1eiinh5f8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

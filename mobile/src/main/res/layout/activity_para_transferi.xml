@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/activity_para_transferi"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.sercanyusuf.temazsizbankacilik.ParaTransferi">
+
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="number"
+        android:ems="10"
+        android:hint="Göndermek İstedeğiniz Tutarı Giriniz:"
+        android:layout_marginTop="20dp"
+        android:id="@+id/etTutar" />
+
+    <com.dlazaro66.qrcodereaderview.QRCodeReaderView
+        android:id="@+id/qrTransfer"
+        android:layout_width="match_parent"
+        android:layout_below="@+id/etTutar"
+        android:layout_height="match_parent"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/yesil"
+        android:textColor="#FFFFFF"
+        android:textSize="19sp"
+        android:id="@+id/btnParaGonder"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:visibility="invisible"
+        android:text="Gönder"/>
+
+
+</RelativeLayout>
